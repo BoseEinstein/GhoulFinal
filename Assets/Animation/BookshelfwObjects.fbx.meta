@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 3f13de0ba3fff97418740dd7411e40b1
+timeCreated: 1461709426
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BookShelf:pCube1
+    100002: BookShelf:pCube10
+    100004: BookShelf:pCube11
+    100006: BookShelf:pCube12
+    100008: BookShelf:pCube2
+    100010: BookShelf:pCube3
+    100012: BookShelf:pCube4
+    100014: BookShelf:pCube5
+    100016: BookShelf:pCube6
+    100018: BookShelf:pCube7
+    100020: BookShelf:pCube8
+    100022: BookShelf:pCube9
+    100024: BookShelf:transform1
+    100026: BookShelf:transform10
+    100028: BookShelf:transform11
+    100030: BookShelf:transform12
+    100032: BookShelf:transform13
+    100034: BookShelf:transform14
+    100036: BookShelf:transform15
+    100038: BookShelf:transform16
+    100040: BookShelf:transform17
+    100042: BookShelf:transform18
+    100044: BookShelf:transform19
+    100046: BookShelf:transform2
+    100048: BookShelf:transform20
+    100050: BookShelf:transform21
+    100052: BookShelf:transform22
+    100054: BookShelf:transform23
+    100056: BookShelf:transform24
+    100058: BookShelf:transform3
+    100060: BookShelf:transform4
+    100062: BookShelf:transform5
+    100064: BookShelf:transform6
+    100066: BookShelf:transform7
+    100068: BookShelf:transform8
+    100070: BookShelf:transform9
+    100072: //RootNode
+    100074: nurbsCircle5
+    100076: polySurface33
+    100078: polySurface34
+    100080: polySurface35
+    100082: polySurface36
+    100084: polySurface37
+    100086: polySurface38
+    100088: polySurface44
+    100090: polySurface45
+    100092: polySurface46
+    100094: polySurface47
+    100096: polySurface48
+    100098: polySurface49
+    100100: polySurface73
+    100102: polySurface74
+    100104: polySurface74 1
+    100106: transform38
+    100108: transform39
+    100110: transform40
+    400000: BookShelf:pCube1
+    400002: BookShelf:pCube10
+    400004: BookShelf:pCube11
+    400006: BookShelf:pCube12
+    400008: BookShelf:pCube2
+    400010: BookShelf:pCube3
+    400012: BookShelf:pCube4
+    400014: BookShelf:pCube5
+    400016: BookShelf:pCube6
+    400018: BookShelf:pCube7
+    400020: BookShelf:pCube8
+    400022: BookShelf:pCube9
+    400024: BookShelf:transform1
+    400026: BookShelf:transform10
+    400028: BookShelf:transform11
+    400030: BookShelf:transform12
+    400032: BookShelf:transform13
+    400034: BookShelf:transform14
+    400036: BookShelf:transform15
+    400038: BookShelf:transform16
+    400040: BookShelf:transform17
+    400042: BookShelf:transform18
+    400044: BookShelf:transform19
+    400046: BookShelf:transform2
+    400048: BookShelf:transform20
+    400050: BookShelf:transform21
+    400052: BookShelf:transform22
+    400054: BookShelf:transform23
+    400056: BookShelf:transform24
+    400058: BookShelf:transform3
+    400060: BookShelf:transform4
+    400062: BookShelf:transform5
+    400064: BookShelf:transform6
+    400066: BookShelf:transform7
+    400068: BookShelf:transform8
+    400070: BookShelf:transform9
+    400072: //RootNode
+    400074: nurbsCircle5
+    400076: polySurface33
+    400078: polySurface34
+    400080: polySurface35
+    400082: polySurface36
+    400084: polySurface37
+    400086: polySurface38
+    400088: polySurface44
+    400090: polySurface45
+    400092: polySurface46
+    400094: polySurface47
+    400096: polySurface48
+    400098: polySurface49
+    400100: polySurface73
+    400102: polySurface74
+    400104: polySurface74 1
+    400106: transform38
+    400108: transform39
+    400110: transform40
+    2300000: BookShelf:pCube12
+    3300000: BookShelf:pCube12
+    4300000: BookShelf:pCube12
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

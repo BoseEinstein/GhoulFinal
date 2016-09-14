@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 5dacaa61513b34f4798fba7b354199ab
+timeCreated: 1461709427
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Airplane:pCube1
+    100002: Airplane:pCube2
+    100004: Airplane:pCylinder1
+    100006: Airplane:pCylinder2
+    100008: Airplane:pCylinder3
+    100010: Airplane:pCylinder4
+    100012: Airplane:pCylinder5
+    100014: Airplane:pCylinder6
+    100016: Airplane:polySurface1
+    100018: Airplane:polySurface2
+    100020: Airplane:polySurface3
+    100022: Airplane:polySurface3 1
+    100024: Airplane:polySurface4
+    100026: Airplane:polySurface5
+    100028: Airplane:polySurface6
+    100030: Airplane:polySurface7
+    100032: Airplane:polySurface8
+    100034: Airplane:transform1
+    100036: Airplane:transform10
+    100038: Airplane:transform11
+    100040: Airplane:transform12
+    100042: Airplane:transform13
+    100044: Airplane:transform14
+    100046: Airplane:transform15
+    100048: Airplane:transform16
+    100050: Airplane:transform2
+    100052: Airplane:transform3
+    100054: Airplane:transform4
+    100056: Airplane:transform5
+    100058: Airplane:transform6
+    100060: Airplane:transform7
+    100062: Airplane:transform8
+    100064: Airplane:transform9
+    100066: //RootNode
+    100068: motionTrail1Handle
+    400000: Airplane:pCube1
+    400002: Airplane:pCube2
+    400004: Airplane:pCylinder1
+    400006: Airplane:pCylinder2
+    400008: Airplane:pCylinder3
+    400010: Airplane:pCylinder4
+    400012: Airplane:pCylinder5
+    400014: Airplane:pCylinder6
+    400016: Airplane:polySurface1
+    400018: Airplane:polySurface2
+    400020: Airplane:polySurface3
+    400022: Airplane:polySurface3 1
+    400024: Airplane:polySurface4
+    400026: Airplane:polySurface5
+    400028: Airplane:polySurface6
+    400030: Airplane:polySurface7
+    400032: Airplane:polySurface8
+    400034: Airplane:transform1
+    400036: Airplane:transform10
+    400038: Airplane:transform11
+    400040: Airplane:transform12
+    400042: Airplane:transform13
+    400044: Airplane:transform14
+    400046: Airplane:transform15
+    400048: Airplane:transform16
+    400050: Airplane:transform2
+    400052: Airplane:transform3
+    400054: Airplane:transform4
+    400056: Airplane:transform5
+    400058: Airplane:transform6
+    400060: Airplane:transform7
+    400062: Airplane:transform8
+    400064: Airplane:transform9
+    400066: //RootNode
+    400068: motionTrail1Handle
+    2300000: Airplane:polySurface8
+    3300000: Airplane:polySurface8
+    4300000: Airplane:polySurface8
+    7400000: PlaneAnim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PlaneAnim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 157
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Airplane:pCube1
+        weight: 1
+      - path: Airplane:pCube1/Airplane:transform7
+        weight: 1
+      - path: Airplane:pCube2
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface1
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface1/Airplane:transform12
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface2
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface2/Airplane:transform13
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface3 1
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface3 1/Airplane:transform14
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface4
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface4/Airplane:transform9
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface5
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface5/Airplane:transform10
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface6
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface6/Airplane:transform11
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface7
+        weight: 1
+      - path: Airplane:pCube2/Airplane:polySurface7/Airplane:transform15
+        weight: 1
+      - path: Airplane:pCube2/Airplane:transform8
+        weight: 1
+      - path: Airplane:pCylinder1
+        weight: 1
+      - path: Airplane:pCylinder1/Airplane:transform6
+        weight: 1
+      - path: Airplane:pCylinder2
+        weight: 1
+      - path: Airplane:pCylinder2/Airplane:transform5
+        weight: 1
+      - path: Airplane:pCylinder3
+        weight: 1
+      - path: Airplane:pCylinder3/Airplane:transform4
+        weight: 1
+      - path: Airplane:pCylinder4
+        weight: 1
+      - path: Airplane:pCylinder4/Airplane:transform3
+        weight: 1
+      - path: Airplane:pCylinder5
+        weight: 1
+      - path: Airplane:pCylinder5/Airplane:transform2
+        weight: 1
+      - path: Airplane:pCylinder6
+        weight: 1
+      - path: Airplane:pCylinder6/Airplane:transform1
+        weight: 1
+      - path: Airplane:polySurface3
+        weight: 1
+      - path: Airplane:polySurface3/Airplane:transform16
+        weight: 1
+      - path: Airplane:polySurface8
+        weight: 1
+      - path: motionTrail1Handle
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
